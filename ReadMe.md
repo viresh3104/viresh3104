@@ -8,7 +8,7 @@
 - 👾 Love to operate things through the **Terminal** with hands-on **Linux**🛠  
 - ⚡ Have a deep understanding of **Python and Data Analysis**; did 2 internships as a Data Analyst  
 - 👯 Looking to expand my horizons 🌈 in **Backend Technology** and **DevOps**☁  
-- ⚡ Passionate about **.NET and Backend**, but haven't explored it yet  
+- ⚡ Passionate about **Backend and SRE**, but haven't explored it yet  
 - 📫 Reach me here ➡ **vireshnavtake.cloud@gmail.com**
 
 ## 🚀 Languages and Tools:
